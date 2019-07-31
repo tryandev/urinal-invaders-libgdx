@@ -1,12 +1,13 @@
 # urinal-invaders-libgdx
-3D Android game developed in libGDX
+
+Developement of 2D casual game in libGDX.
 
 Created by me:
-- Gameplay code
-- Character 3D models & texture
+- Gameplay code & game design
+- Character design & 2D Art
+- 3D modeling & texturing
 
-Third party resources: 
-- LibGDX
+Third party / external resources:
+- libGDX as UI and 3D Framework
 
-![picture](screenshot1.png)
-![picture](screenshot2.png)
+<img src="screenshot1.png" width="430"><img src="screenshot2.png" width="430">
